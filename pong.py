@@ -1,7 +1,4 @@
 # Coding project by @SahandSetareh
-
-
-
 import turtle
 
 wn = turtle.Screen()
